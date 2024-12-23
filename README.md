@@ -20,8 +20,8 @@ Asegúrate de tener instalados los siguientes elementos antes de ejecutar el pro
 1. Clonar este repositorio:
 
    ```
-   git clone https://github.com/usuario/SeedDataApi.git
-   cd SeedDataApi
+   git clone https://github.com/mizook/capsula_8_as
+   cd capsula_8_as
    ```
 
 2. Restaurar las dependencias del proyecto:
